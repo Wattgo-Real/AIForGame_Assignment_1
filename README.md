@@ -15,7 +15,7 @@ Dependencies
 ## Installation steps
 
 ```
-git clone https://Wattgo-Real/AIForGame_Assignment_1
+git clone https://github.com/Wattgo-Real/AIForGame_Assignment_1
 cd AIForGame_Assignment_1
 pip install -r requirements.txt
 ```
