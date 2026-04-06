@@ -7,7 +7,7 @@
 This game was made using Python 3.11.15.
 
 Dependencies
-* numpy = =2.4.3
+* numpy == 2.4.3
 * matplotlib == 3.10.8
 * PyQt5 == 5.15.11
 * pygame == 2.6.1
