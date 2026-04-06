@@ -1,6 +1,6 @@
 # Assignment 1
 
-![image](https://github.com/Wattgo-Real/AIForGame_Assignment_1/tree/main/Img/MainCore.py)
+![image](https://github.com/Wattgo-Real/AIForGame_Assignment_1/blob/main/Img/GameScreen.png)
 
 ## Environment and Dependencies
 
